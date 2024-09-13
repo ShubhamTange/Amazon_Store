@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T22:47:11 IST" name="Default suite" finished-at="2024-09-13T22:47:17 IST" duration-ms="6198">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T22:47:11 IST" name="Default test" finished-at="2024-09-13T22:47:17 IST" duration-ms="6198">
+      <class name="testcases_lg_product.LG_Soundbar_Test">
+        <test-method signature="LG_Soundbars()[pri:0, instance:testcases_lg_product.LG_Soundbar_Test@4c371370]" started-at="2024-09-13T22:47:11 IST" name="LG_Soundbars" finished-at="2024-09-13T22:47:17 IST" duration-ms="6165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LG_Soundbars -->
+      </class> <!-- testcases_lg_product.LG_Soundbar_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
